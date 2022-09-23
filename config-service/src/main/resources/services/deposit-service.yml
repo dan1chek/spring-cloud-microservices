@@ -20,3 +20,6 @@ spring:
     listener:
       direct:
         default-requeue-rejected: true
+
+server:
+  port: 9999

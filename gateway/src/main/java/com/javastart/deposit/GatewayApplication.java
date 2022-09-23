@@ -1,4 +1,4 @@
-package com.javastart.dposit;
+package com.javastart.deposit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

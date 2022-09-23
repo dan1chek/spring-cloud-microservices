@@ -4,6 +4,6 @@ spring:
   cloud:
     config:
       uri: http://localhost:8001
-      fail-fast: true
+      fail-fast: false
       password: admin
       username: user
